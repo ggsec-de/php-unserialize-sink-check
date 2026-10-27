@@ -1,0 +1,9 @@
+# Edited copies carry a real token; they are for one upload and must never be committed.
+*.local.php
+/local/
+/tmp/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp

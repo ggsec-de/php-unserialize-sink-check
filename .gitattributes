@@ -1,0 +1,6 @@
+# Keep LF in the repository and on checkout. The script is plain PHP and nothing here needs CRLF,
+# but a stray CRLF has already broken one commit message in this project.
+* text=auto eol=lf
+
+*.php text eol=lf
+*.md  text eol=lf
